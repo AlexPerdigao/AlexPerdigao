@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Hoje trabalho com FullStack
+- 🔭 Futuro Dev. Full Stack
 - 🌱 Atualmente estou aprendendo Angular
 - 📫 Contato - alexfperdigao@gmail.com
 - 😄 Pronomes: ele/dele
