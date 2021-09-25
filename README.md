@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Futuro Dev. Full Stack
-- 🌱 Atualmente estou aprendendo Angular
+- 🌱 Atualmente participando do bootcamp Take Blip Fullstack Developer #2
 - 📫 Contato - alexfperdigao@gmail.com
 - 😄 Pronomes: ele/dele
  ##
