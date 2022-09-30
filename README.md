@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Futuro Dev. Full Stack
-- 🌱 Atualmente participando do bootcamp Take Blip Fullstack Developer #2
+- 🌱 Atualmente participando do Programa Start By Capgemini (Trilha Java)
 - 📫 Contato - alexfperdigao@gmail.com
 - 😄 Pronomes: ele/dele
  ##
