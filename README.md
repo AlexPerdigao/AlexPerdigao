@@ -5,15 +5,7 @@
 - 📫 Contato - alexfperdigao@gmail.com
 - 😄 Pronomes: ele/dele
  ##
- <div>
-  <a href="https://www.linkedin.com/in/alex-perdigao/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexPerdigao&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPerdigao&layout=compact&langs_count=16&theme=merko"/>
- </div>
- <div>
-  <img src="https://komarev.com/ghpvc/?username=AlexPerdigao&color=green" alt="AlexPerdigao"/> 
- </div>
-  
+   
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
