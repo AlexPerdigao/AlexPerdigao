@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Futuro Dev. Full Stack
-- 🌱 Atualmente participando do Programa Start By Capgemini (Trilha Java)
+- 🌱 Estudante de Engenharia de Prompt
 - 📫 Contato - alexfperdigao@gmail.com
 - 😄 Pronomes: ele/dele
  ##
